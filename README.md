@@ -26,7 +26,7 @@ This project simulates a real-world Business Intelligence workflow for **Adventu
 
 ## 📊 Key Dashboards & Insights
 - **KPI Dashboard**: Revenue, Profit, Orders, Avg. Order Value
-- **Regional Analysis**: Sales performance across North America
+- **Regional Analysis**: Sales performance across North America, Pacific and Europe
 - **Product Trends**: Top categories, best-selling products
 - **Customer Insights**: Segmentation of high-value and repeat customers
 
@@ -37,7 +37,7 @@ This project simulates a real-world Business Intelligence workflow for **Adventu
 ## 📁 Project Files
 - `AdventureWorks_Sales_Analysis.pbix` — Final Power BI report
 - `Raw_Data/` — Folder containing all raw Excel data files (e.g., Customers, Sales, Products)
-- `cover.png` *(optional)* — Dashboard screenshot
+- `cover.png` — [Dashboard screenshot](https://github.com/ayesha9132/adventureworks-powerbi-sales-dashboard/blob/main/PBI1.jpg) 
 
 ---
 
