@@ -35,7 +35,7 @@ This project simulates a real-world Business Intelligence workflow for **Adventu
 ---
 
 ## 📁 Project Files
-- `[AdventureWorks_Sales_Analysis.pbix](https://github.com/ayesha9132/adventureworks-powerbi-sales-dashboard/blob/main/AdventureWorks_Report.pbix)` — Final Power BI report
+- `AdventureWorks_Sales_Analysis.pbix` — Final Power BI report
 - `Raw_Data/` — Folder containing all raw Excel data files (e.g., Customers, Sales, Products)
 - `cover.png` *(optional)* — Dashboard screenshot
 
